@@ -1,1 +1,9 @@
-This file was created by JetBrains WebStorm 4.0.2 for binding GitHub repository
+Enyo wrapping for Wijmo's calendar widget.  For more info visit http://wijmo.com/
+Calendar documentation is available at: http://wijmo.com/wiki/index.php/Calendar
+Most calendar events are wrapped as Enyo events, with the exception of the title
+event. To implement the title callback, set the title property to a function that
+returns a string. It is also possible to set the title to string.
+
+Wijmo calendar widget used under the MIT license.
+
+Wrapped by Roy Sutton
